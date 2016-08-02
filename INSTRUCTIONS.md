@@ -19,12 +19,7 @@
 
 See the [student readme](README.md) for instructions.
 
-### Main: implement pattern (20 minutes)
-
-See the [student readme](README.md) for instructions.
 
 ### Plenary (20 minutes)
-
-* Collaboratively review students' solutions.
 
 * Do "thumbs" on the learning objectives.

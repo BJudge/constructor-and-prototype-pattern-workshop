@@ -1,4 +1,4 @@
-# Encapsulation with the constructor and prototype pattern
+# Understanding the constructor and prototype pattern
 
 ## Instructions
 
@@ -7,8 +7,7 @@ At a high level, this week is about building an effective process for learning u
 ### Learning objectives
 
 1. Describe what a constructor function does.  Describe what a constructor function's prototype does.
-2. Write a constructor function and prototype to encapsulate some behaviour.
-3. Explain the strengths and weaknesses of the constructor and prototype pattern as a way to encapsulate behaviour.
+2. Understand the link between the constructor and prototype
 
 ### Getting visibility
 
