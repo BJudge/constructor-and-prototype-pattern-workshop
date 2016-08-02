@@ -1,16 +1,13 @@
-# Encapsulation with the constructor and prototype pattern
+# Understanding the constructor and prototype pattern
 
 ## Instructions
 
 At a high level, this week is about building an effective process for learning unfamiliar language features and patterns.  In this workshop, you'll practice using this process to understand some code that uses the constructor and prototype pattern.
 
-You'll also write some code that uses this pattern to encapsulate behaviour.
-
 ### Learning objectives
 
 1. Describe what a constructor function does.  Describe what a constructor function's prototype does.
-2. Write a constructor function and prototype to encapsulate some behaviour.
-3. Explain the strengths and weaknesses of the constructor and prototype pattern as a way to encapsulate behaviour.
+2. Understand the link between the constructor and prototype
 
 ### Getting visibility
 
@@ -44,7 +41,7 @@ A great way to understand code is to first tighten the loop, then get visibility
 
 ### Plenary (20 mins)
 
-We'll come back together for a short plenary.  We'll show our code and discuss it.  We'll discuss the strengths and weaknesses of the constructor and prototype pattern for encapsulating behaviour.
+We'll come back together for a short plenary.  We'll show our code and discuss it.
 
 ## Questions
 

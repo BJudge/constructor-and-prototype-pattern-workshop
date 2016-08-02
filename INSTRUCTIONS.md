@@ -3,8 +3,7 @@
 ### Learning objectives
 
 1. Describe what a constructor function does.  Describe what a constructor function's prototype does.
-2. Write a constructor function and prototype to encapsulate some behaviour.
-3. Explain the strengths and weaknesses of the constructor and prototype pattern as a way to encapsulate behaviour.
+2. Understand the link between the constructor and prototype.
 
 ### Starter (15 minutes)
 
@@ -19,6 +18,7 @@
 ### Main: investigate pattern (20 minutes)
 
 See the [student readme](README.md) for instructions.
+
 
 ### Plenary (20 minutes)
 
